@@ -1,3 +1,5 @@
+# DEPECRATED -> NEW CRATE: [SkippablePartialEq](https://github.com/caioluis/skippable-partialeq)
+
 # timeless-partialeq
 ## PartialEq, but ignores timestamps, ideal for API testing
 
